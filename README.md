@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BackBanchersApps
+- 👋 Hi, I’m @Hamza Mehmood
 - 👀 I’m interested in improving my skills every next minute
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on android projects
